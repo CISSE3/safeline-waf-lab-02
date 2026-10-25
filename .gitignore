@@ -1,0 +1,6 @@
+# never commit private keys or credentials
+*.key
+*.pem
+lab-cert/
+.DS_Store
+Thumbs.db
